@@ -465,7 +465,7 @@ color: var(--text-gray);
 #newspage{
 	position: absolute;
 	width: 100%;
-	height: 300rem;
+	height: 315rem;
 	top: 7rem;
 
 	background-color: var(--backgroud-light);
@@ -547,7 +547,7 @@ line-height: 2.4rem;
 }
 
 .news1 svg.veja {
-margin-top: 1rem;
+margin-top: 6rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -616,6 +616,7 @@ line-height: 2.4rem;
 }
 
 .news2 svg.veja {
+margin-top: 3rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -684,6 +685,7 @@ line-height: 2.4rem;
 }
 
 .news3 svg.veja {
+margin-top: 5rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -703,6 +705,10 @@ text-align: center;
 /*=== News4 =================================*/
 
 #newspage .news4 h1{
+
+	width: 37rem;
+	margin-left: auto;
+	margin-right: auto;
 
 height: auto;
 margin-top: 2.2rem;
@@ -768,6 +774,7 @@ line-height: 2.4rem;
 }
 
 .news4 svg.veja {
+margin-top: 5rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -852,6 +859,7 @@ line-height: 2.4rem;
 }
 
 .news5 svg.veja {
+margin-top: 6rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -937,6 +945,7 @@ line-height: 2.4rem;
 
 .news6 svg.veja {
 margin-right: auto;
+margin-top: 5rem;
 margin-left: 50%;
 text-align: center;
 }
@@ -948,7 +957,7 @@ footer {
 	position: absolute;
 	width: 100%;
 	height: 29.2rem;
-	top: 305rem;
+	top: 315rem;
 
 	text-align: left;
 
@@ -1086,7 +1095,7 @@ footer {
 }
 
 /*=== RESPONSIVO =================================*/
-@media(min-width: 1080px){
+@media(min-width: 1242px){
 
 /*=== GERAL =================================*/
 body {
@@ -1196,7 +1205,7 @@ height: 34.6rem;
 /*=== FOOTER =================================*/
 footer{
 	padding-block: 8rem;
-	top: 150rem;
+	top: 155rem;
   }
   footer .wrapper{
 	grid-template-columns: 1f 1f;
@@ -1372,7 +1381,7 @@ footer{
 	top: 7rem;
 	padding-top: 0;
 	padding-bottom: 10rem;
-	height: 120rem;
+	height: 150rem;
  }
 
  #newspage .linha{
@@ -1459,6 +1468,7 @@ footer{
  }
 
  #newspage .col-b h1{
+	width: 37rem;
 	margin-left: auto;
 	margin-right: auto;
 

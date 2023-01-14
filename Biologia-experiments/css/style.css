@@ -547,7 +547,7 @@ line-height: 2.4rem;
 }
 
 .news1 svg.veja {
-margin-top: 1rem;
+margin-top: 6rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -704,6 +704,10 @@ text-align: center;
 
 #newspage .news4 h1{
 
+	width: 37rem;
+	margin-left: auto;
+	margin-right: auto;
+
 height: auto;
 margin-top: 2.2rem;
 
@@ -768,6 +772,7 @@ line-height: 2.4rem;
 }
 
 .news4 svg.veja {
+	margin-top: 4rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -852,6 +857,7 @@ line-height: 2.4rem;
 }
 
 .news5 svg.veja {
+margin-top: 2rem;
 margin-right: auto;
 margin-left: 50%;
 text-align: center;
@@ -937,6 +943,7 @@ line-height: 2.4rem;
 
 .news6 svg.veja {
 margin-right: auto;
+margin-top: 9rem;
 margin-left: 50%;
 text-align: center;
 }
@@ -1086,7 +1093,7 @@ footer {
 }
 
 /*=== RESPONSIVO =================================*/
-@media(min-width: 1080px){
+@media(min-width: 1242px){
 
 /*=== GERAL =================================*/
 body {
@@ -1196,7 +1203,7 @@ height: 34.6rem;
 /*=== FOOTER =================================*/
 footer{
 	padding-block: 8rem;
-	top: 150rem;
+	top: 155rem;
   }
   footer .wrapper{
 	grid-template-columns: 1f 1f;
@@ -1372,7 +1379,7 @@ footer{
 	top: 7rem;
 	padding-top: 0;
 	padding-bottom: 10rem;
-	height: 120rem;
+	height: 150rem;
  }
 
  #newspage .linha{
